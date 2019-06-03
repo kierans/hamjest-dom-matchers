@@ -12,6 +12,10 @@
   ],
   "author": "Kieran Simpson",
   "license": "MIT",
+  "files": [
+    "src",
+    "README.md"
+  ],
   "devDependencies": {
     "hamjest": "^3.2.3",
     "mocha": "^6.1.4",
