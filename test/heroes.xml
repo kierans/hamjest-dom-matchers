@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<urn:heroes xmlns:urn="urn:org:quasar:hamjest">
+	<urn:hero address="Wayne Manor">
+		<urn:realName>Bruce Wayne</urn:realName>
+		<urn:codeName>Batman</urn:codeName>
+	</urn:hero>
+</urn:heroes>

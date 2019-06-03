@@ -2,7 +2,7 @@
   "name": "hamjest-dom-matchers",
   "version": "1.0.0",
   "description": "Matchers for use with Hamjest and DOM trees.",
-  "main": "index.js",
+  "main": "src/dom-node-matchers.js",
   "scripts": {
     "test": "mocha test"
   },
@@ -11,5 +11,16 @@
     "hamjest"
   ],
   "author": "Kieran Simpson",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "hamjest": "^3.2.3",
+    "mocha": "^6.1.4",
+    "mocha-should": "0.0.3",
+    "xmldom": "^0.1.27",
+    "xpath": "0.0.27"
+  },
+  "peerDependencies": {
+    "xmldom": "^0.1.27",
+    "xpath": "0.0.27"
+  }
 }
