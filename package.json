@@ -12,6 +12,10 @@
   ],
   "author": "Kieran Simpson",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kierans/hamjest-dom-matchers.git"
+  },
   "files": [
     "src",
     "README.md"
