@@ -22,7 +22,7 @@
   ],
   "devDependencies": {
     "hamjest": "^3.2.5",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "mocha-should": "0.0.3",
     "xmldom": "^0.1.27",
     "xpath": "0.0.27"
